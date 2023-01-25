@@ -1,4 +1,4 @@
-# sharikaloganathan.github.io
+
 
 <!DOCTYPE html>
 <html>
@@ -113,7 +113,7 @@ body {
     </div>
     <div class="card">
       <h3>Follow Me</h3>
-      <p>Some text..</p>
+      <p></p>
     </div>
   </div>
 </div>
